@@ -1,1 +1,1 @@
-console.log("ncxtc")
+console.log("vnokt")
