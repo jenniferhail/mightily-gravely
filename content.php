@@ -1,3 +1,3 @@
 <?php
-        echo "segnb";
+        echo "baydr";
 ?>
