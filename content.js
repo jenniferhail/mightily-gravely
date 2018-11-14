@@ -1,1 +1,1 @@
-console.log("geram")
+console.log("uriod")
